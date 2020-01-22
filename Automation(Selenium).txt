@@ -1,0 +1,35 @@
+(Everything is free of cost)
+self explainatory videos Full Course:
+
+Direct Youtube link
+1.https://www.youtube.com/watch?v=fZhwpqKcEQc&list=PLyGqUe6Oa_5Elc-Dv9jPzHKDx-m2GvMOd  (Full Course)
+2.https://www.youtube.com/watch?v=cLEcL5yc0yc&list=PL6flErFppaj2ArNxLyR4nQ4JV8qFc56-M  (Full Course)
+
+3.Some imp concepts of Selenium Webdriver https://www.youtube.com/watch?v=sqpo7BsRGws&list=PL6zJBulPTLhTB2-bqM1XckLbwSEfCOPqC
+
+
+Full Course Notes
+1.http://www.gcreddy.com/2014/07/selenium-tutorial.html
+2.http://www.gcreddy.com/2015/06/selenium-videos.html
+3.http://learn-automation.com/advance-selenium-webdriver-tutorials/ (advanced selenium)
+4.http://learn-automation.com/free-selenium-webdriver-tutorial/ (basic selenium)
+5.https://www.seleniumeasy.com/selenium-tutorials
+
+My personal Favorite
+1.http://www.guru99.com/selenium-tutorial.html
+
+For Getting live Projects and Assesment to, you will also be evaluated by the experts script to improve ur concepts.(My recommendation).
+enter your details u will get a verification email validate thereafter each day you will be assigned modules and u will have to report accordingly
+
+-->http://www.guru99.com/live-selenium-project.html
+
+Live Ecommerce Project: Selenium Automation
+
+---> http://www.guru99.com/live-ecommerce-project.html
+
+If you find yourself in problem while coding reffer to this site ith your details of issue- (http://stackoverflow.com/)
+create an account then u will be able to posts ur querries. and you will get response from industry experts having 15-17yrs of experience.
+
+Thanks & regards.
+Alok.
+
